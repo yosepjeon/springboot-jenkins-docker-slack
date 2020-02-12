@@ -9,6 +9,7 @@ public class YosepSpringCiStartApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(YosepSpringCiStartApplication.class, args);
 		System.out.println("HI");
+		System.out.println("KyaKya");
 	}
 
 }
