@@ -10,6 +10,7 @@ public class YosepSpringCiStartApplication {
 		SpringApplication.run(YosepSpringCiStartApplication.class, args);
 		System.out.println("HI");
 		System.out.println("KyaKya");
+		System.out.println("Thrid");
 	}
 
 }
